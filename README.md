@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando na CBTU
 - 👾 Estudando IoT & DevOps 
 - ✍ Desenvolvedor Python Junior 
-- 💭 Em busca de me aperfeiçoar e entrar no mundo 
+- 💭 Em busca de me aperfeiçoar e entrar no mundo DevSecOps
 - 👉 Contate-me pelo LinkedIn: http://linkedin.com/in/rafael-marques-paulo-neto-a6a502271
 
 <div align="center">
